@@ -18,4 +18,4 @@ CLIENT SIDE TRIGGER:
 EXAMPLE:
 
 
-![image](https://github.com/404error-dev/eagle_notifiche/assets/45904818/aae53d4d-7ffe-4375-a4de-75402efd153e)
+![image](https://github.com/404error-dev/eagle_notifiche/assets/45904818/ac092837-4925-418f-af32-01ab3bb0b57d)
